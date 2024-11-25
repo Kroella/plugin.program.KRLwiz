@@ -109,7 +109,7 @@ REPOZIPURL = 'https://raw.githubusercontent.com/drinfernoo/repository.openwizard
 # Enable Notification screen Yes or No
 ENABLE = 'Yes'
 # Url to notification file
-NOTIFICATION = 'http://'
+NOTIFICATION = 'https://github.com/Kroella/plugin.program.KRLwiz/blob/master/resources/text/notify.txt'
 # Use either 'Text' or 'Image'
 HEADERTYPE = 'Text'
 # Font size of header
